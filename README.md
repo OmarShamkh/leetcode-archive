@@ -6,6 +6,7 @@ Collection of My LeetCode problems solutions.
 ## Array
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0216-combination-sum-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
@@ -25,4 +26,8 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
