@@ -31,5 +31,6 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/OmarShamkh/leetcode-archive/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
