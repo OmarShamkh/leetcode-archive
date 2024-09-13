@@ -11,6 +11,7 @@ Collection of My LeetCode problems solutions.
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -42,6 +43,7 @@ Collection of My LeetCode problems solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
@@ -100,6 +102,7 @@ Collection of My LeetCode problems solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
