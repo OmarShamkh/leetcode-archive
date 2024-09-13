@@ -8,6 +8,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0051-n-queens](https://github.com/OmarShamkh/leetcode-archive/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0216-combination-sum-iii) |
+| [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -29,6 +30,7 @@ Collection of My LeetCode problems solutions.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -109,4 +111,8 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
