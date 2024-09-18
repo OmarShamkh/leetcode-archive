@@ -7,6 +7,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/OmarShamkh/leetcode-archive/tree/master/0051-n-queens) |
+| [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0216-combination-sum-iii) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
@@ -60,6 +61,7 @@ Collection of My LeetCode problems solutions.
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -134,5 +136,10 @@ Collection of My LeetCode problems solutions.
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
