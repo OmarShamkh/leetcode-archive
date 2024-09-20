@@ -11,17 +11,11 @@
  */
 class Solution {
 public:
-int ans = 0;
-    void dfs(TreeNode* root, int cnt){
-        if(root == nullptr) return;
-        
-        dfs(root->right, cnt+1);
-        dfs(root->left, cnt+1);
-        
-        ans = max(ans, cnt);
-    }
     int maxDepth(TreeNode* root) {
-        dfs(root,1);
-        return ans;
+        if(root == nullptr) return 0;
+
+        int maxrcnt = maxDepth(root->right);
+        int maxlcnt = maxDepth(root->left);
+        return max(maxrcnt,maxlcnt)+1;
     }
 };
