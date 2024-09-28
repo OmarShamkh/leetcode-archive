@@ -111,6 +111,7 @@ Collection of My LeetCode problems solutions.
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/OmarShamkh/leetcode-archive/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
