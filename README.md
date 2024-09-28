@@ -114,6 +114,7 @@ Collection of My LeetCode problems solutions.
 | [0725-split-linked-list-in-parts](https://github.com/OmarShamkh/leetcode-archive/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -238,4 +239,5 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
