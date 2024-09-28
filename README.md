@@ -13,6 +13,7 @@ Collection of My LeetCode problems solutions.
 | [0729-my-calendar-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -104,6 +105,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/OmarShamkh/leetcode-archive/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -206,6 +208,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0729-my-calendar-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -216,4 +219,8 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0729-my-calendar-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
