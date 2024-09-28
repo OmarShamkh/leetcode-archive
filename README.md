@@ -125,6 +125,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/OmarShamkh/leetcode-archive/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@ Collection of My LeetCode problems solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/OmarShamkh/leetcode-archive/tree/master/0386-lexicographical-numbers) |
+| [0904-leaf-similar-trees](https://github.com/OmarShamkh/leetcode-archive/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -144,6 +146,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/OmarShamkh/leetcode-archive/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
