@@ -18,6 +18,7 @@ Collection of My LeetCode problems solutions.
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/OmarShamkh/leetcode-archive/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
