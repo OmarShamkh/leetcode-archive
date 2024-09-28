@@ -73,6 +73,7 @@ Collection of My LeetCode problems solutions.
 | [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/OmarShamkh/leetcode-archive/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmarShamkh/leetcode-archive/tree/master/0241-different-ways-to-add-parentheses) |
+| [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -223,4 +224,8 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
