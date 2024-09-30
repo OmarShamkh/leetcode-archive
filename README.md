@@ -231,6 +231,7 @@ Collection of My LeetCode problems solutions.
 | [0729-my-calendar-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/OmarShamkh/leetcode-archive/tree/master/0969-number-of-recent-calls) |
 ## Segment Tree
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/OmarShamkh/leetcode-archive/tree/master/0969-number-of-recent-calls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,4 +262,8 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0783-search-in-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/OmarShamkh/leetcode-archive/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
