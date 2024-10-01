@@ -20,6 +20,7 @@ Collection of My LeetCode problems solutions.
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/OmarShamkh/leetcode-archive/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmarShamkh/leetcode-archive/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -96,6 +97,7 @@ Collection of My LeetCode problems solutions.
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmarShamkh/leetcode-archive/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
@@ -168,6 +170,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmarShamkh/leetcode-archive/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Stack
