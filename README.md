@@ -129,6 +129,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/OmarShamkh/leetcode-archive/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/OmarShamkh/leetcode-archive/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
@@ -151,6 +152,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/OmarShamkh/leetcode-archive/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/OmarShamkh/leetcode-archive/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
@@ -264,6 +266,7 @@ Collection of My LeetCode problems solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/OmarShamkh/leetcode-archive/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/0783-search-in-a-binary-search-tree) |
 ## Data Stream
 |  |
