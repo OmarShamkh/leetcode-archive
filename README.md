@@ -32,6 +32,7 @@ Collection of My LeetCode problems solutions.
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmarShamkh/leetcode-archive/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -105,6 +106,7 @@ Collection of My LeetCode problems solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/OmarShamkh/leetcode-archive/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -196,6 +198,7 @@ Collection of My LeetCode problems solutions.
 | [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -265,6 +268,7 @@ Collection of My LeetCode problems solutions.
 | [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Doubly-Linked List
 |  |
 | ------- |
