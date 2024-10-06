@@ -25,6 +25,7 @@ Collection of My LeetCode problems solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/OmarShamkh/leetcode-archive/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
@@ -89,6 +90,7 @@ Collection of My LeetCode problems solutions.
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
@@ -269,6 +271,7 @@ Collection of My LeetCode problems solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
