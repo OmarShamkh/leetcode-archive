@@ -54,6 +54,7 @@ Collection of My LeetCode problems solutions.
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of My LeetCode problems solutions.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -196,6 +198,7 @@ Collection of My LeetCode problems solutions.
 | [0394-decode-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
 |  |
 | ------- |
