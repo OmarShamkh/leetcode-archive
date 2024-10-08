@@ -93,6 +93,7 @@ Collection of My LeetCode problems solutions.
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -205,6 +206,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0394-decode-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
@@ -223,6 +225,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/OmarShamkh/leetcode-archive/tree/master/0605-can-place-flowers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Collection of My LeetCode problems solutions.
 | [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
