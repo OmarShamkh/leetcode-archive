@@ -88,6 +88,7 @@ Collection of My LeetCode problems solutions.
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -206,6 +207,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0394-decode-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -225,6 +227,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/OmarShamkh/leetcode-archive/tree/master/0605-can-place-flowers) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
