@@ -16,6 +16,7 @@ Collection of My LeetCode problems solutions.
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/OmarShamkh/leetcode-archive/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -209,6 +210,7 @@ Collection of My LeetCode problems solutions.
 | [0394-decode-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/OmarShamkh/leetcode-archive/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -315,4 +317,8 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/OmarShamkh/leetcode-archive/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
