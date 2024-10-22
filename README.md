@@ -161,6 +161,7 @@ Collection of My LeetCode problems solutions.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of My LeetCode problems solutions.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Collection of My LeetCode problems solutions.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -236,6 +239,7 @@ Collection of My LeetCode problems solutions.
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
