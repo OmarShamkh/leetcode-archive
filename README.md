@@ -95,6 +95,7 @@ Collection of My LeetCode problems solutions.
 | [0443-string-compression](https://github.com/OmarShamkh/leetcode-archive/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -282,6 +283,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/OmarShamkh/leetcode-archive/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
