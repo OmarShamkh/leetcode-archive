@@ -32,6 +32,7 @@ Collection of My LeetCode problems solutions.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmarShamkh/leetcode-archive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -58,6 +59,7 @@ Collection of My LeetCode problems solutions.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -106,6 +108,7 @@ Collection of My LeetCode problems solutions.
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
@@ -329,6 +332,7 @@ Collection of My LeetCode problems solutions.
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
