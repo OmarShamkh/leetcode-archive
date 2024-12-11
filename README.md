@@ -43,6 +43,7 @@ Collection of My LeetCode problems solutions.
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -72,6 +73,7 @@ Collection of My LeetCode problems solutions.
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmarShamkh/leetcode-archive/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Collection of My LeetCode problems solutions.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmarShamkh/leetcode-archive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -365,6 +368,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
