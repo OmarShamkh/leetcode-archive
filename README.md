@@ -391,4 +391,5 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/OmarShamkh/leetcode-archive/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/OmarShamkh/leetcode-archive/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
