@@ -387,4 +387,8 @@ Collection of My LeetCode problems solutions.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmarShamkh/leetcode-archive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/OmarShamkh/leetcode-archive/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
