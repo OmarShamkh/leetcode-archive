@@ -42,6 +42,7 @@ Collection of My LeetCode problems solutions.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -85,6 +86,7 @@ Collection of My LeetCode problems solutions.
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of My LeetCode problems solutions.
 | [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/OmarShamkh/leetcode-archive/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
