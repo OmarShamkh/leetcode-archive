@@ -37,6 +37,7 @@ Collection of My LeetCode problems solutions.
 | [2358-number-of-ways-to-split-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
+| [2465-shifting-letters-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmarShamkh/leetcode-archive/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -88,6 +89,7 @@ Collection of My LeetCode problems solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmarShamkh/leetcode-archive/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
@@ -122,6 +124,7 @@ Collection of My LeetCode problems solutions.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
+| [2465-shifting-letters-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
