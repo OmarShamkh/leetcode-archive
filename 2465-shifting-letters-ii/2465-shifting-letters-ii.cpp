@@ -18,8 +18,10 @@ public:
             pre[i] = pre[i] + pre[i-1];
         }
         for(int i=0; i<n; i++){
-            int shift = (pre[i] % 26 + 26) % 26;
-            s[i] = 'a' + (s[i] - 'a' + shift) % 26;
+            char cur = s[i];
+            int shift = pre[i] % 26;
+            if(shift < 0) shift += 26;
+            s[i] = 'a' + (cur - 'a' + shift) % 26;
         }
         return s;
     }
