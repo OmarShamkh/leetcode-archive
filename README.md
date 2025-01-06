@@ -405,6 +405,7 @@ Collection of My LeetCode problems solutions.
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/OmarShamkh/leetcode-archive/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/OmarShamkh/leetcode-archive/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/OmarShamkh/leetcode-archive/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
