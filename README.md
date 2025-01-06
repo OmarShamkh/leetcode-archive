@@ -28,6 +28,7 @@ Collection of My LeetCode problems solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/OmarShamkh/leetcode-archive/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmarShamkh/leetcode-archive/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmarShamkh/leetcode-archive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -86,6 +87,7 @@ Collection of My LeetCode problems solutions.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/OmarShamkh/leetcode-archive/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/OmarShamkh/leetcode-archive/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmarShamkh/leetcode-archive/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmarShamkh/leetcode-archive/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2358-number-of-ways-to-split-array) |
@@ -119,6 +121,7 @@ Collection of My LeetCode problems solutions.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmarShamkh/leetcode-archive/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmarShamkh/leetcode-archive/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
