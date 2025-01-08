@@ -49,6 +49,7 @@ Collection of My LeetCode problems solutions.
 | [2691-count-vowel-strings-in-ranges](https://github.com/OmarShamkh/leetcode-archive/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmarShamkh/leetcode-archive/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -138,6 +139,7 @@ Collection of My LeetCode problems solutions.
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/OmarShamkh/leetcode-archive/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/OmarShamkh/leetcode-archive/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/OmarShamkh/leetcode-archive/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/OmarShamkh/leetcode-archive/tree/master/3451-string-compression-iii) |
 ## Hash Table
@@ -315,6 +317,7 @@ Collection of My LeetCode problems solutions.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/OmarShamkh/leetcode-archive/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -322,10 +325,12 @@ Collection of My LeetCode problems solutions.
 | [0812-rotate-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/OmarShamkh/leetcode-archive/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -333,6 +338,7 @@ Collection of My LeetCode problems solutions.
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/OmarShamkh/leetcode-archive/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
