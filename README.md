@@ -36,6 +36,7 @@ Collection of My LeetCode problems solutions.
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
@@ -130,6 +131,7 @@ Collection of My LeetCode problems solutions.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmarShamkh/leetcode-archive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/2580-circular-sentence) |
@@ -325,6 +327,7 @@ Collection of My LeetCode problems solutions.
 | [0812-rotate-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/OmarShamkh/leetcode-archive/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/OmarShamkh/leetcode-archive/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
