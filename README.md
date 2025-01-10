@@ -17,6 +17,7 @@ Collection of My LeetCode problems solutions.
 | [0735-asteroid-collision](https://github.com/OmarShamkh/leetcode-archive/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/OmarShamkh/leetcode-archive/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/OmarShamkh/leetcode-archive/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/OmarShamkh/leetcode-archive/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
@@ -116,6 +117,7 @@ Collection of My LeetCode problems solutions.
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/OmarShamkh/leetcode-archive/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmarShamkh/leetcode-archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -152,6 +154,7 @@ Collection of My LeetCode problems solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/OmarShamkh/leetcode-archive/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
