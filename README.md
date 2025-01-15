@@ -261,6 +261,7 @@ Collection of My LeetCode problems solutions.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmarShamkh/leetcode-archive/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmarShamkh/leetcode-archive/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/OmarShamkh/leetcode-archive/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
@@ -308,6 +309,7 @@ Collection of My LeetCode problems solutions.
 | [1502-construct-k-palindrome-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmarShamkh/leetcode-archive/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/OmarShamkh/leetcode-archive/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/OmarShamkh/leetcode-archive/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
