@@ -42,6 +42,7 @@ Collection of My LeetCode problems solutions.
 | [2411-spiral-matrix-iv](https://github.com/OmarShamkh/leetcode-archive/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmarShamkh/leetcode-archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmarShamkh/leetcode-archive/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -171,6 +172,7 @@ Collection of My LeetCode problems solutions.
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmarShamkh/leetcode-archive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmarShamkh/leetcode-archive/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmarShamkh/leetcode-archive/tree/master/2428-equal-row-and-column-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmarShamkh/leetcode-archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/2755-extra-characters-in-a-string) |
@@ -298,6 +300,7 @@ Collection of My LeetCode problems solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmarShamkh/leetcode-archive/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmarShamkh/leetcode-archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmarShamkh/leetcode-archive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
@@ -429,6 +432,7 @@ Collection of My LeetCode problems solutions.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmarShamkh/leetcode-archive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmarShamkh/leetcode-archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmarShamkh/leetcode-archive/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Database
