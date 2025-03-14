@@ -21,6 +21,7 @@ Collection of My LeetCode problems solutions.
 | [1002-maximum-width-ramp](https://github.com/OmarShamkh/leetcode-archive/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/OmarShamkh/leetcode-archive/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/OmarShamkh/leetcode-archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmarShamkh/leetcode-archive/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmarShamkh/leetcode-archive/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -82,6 +83,7 @@ Collection of My LeetCode problems solutions.
 | ------- |
 | [0729-my-calendar-i](https://github.com/OmarShamkh/leetcode-archive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmarShamkh/leetcode-archive/tree/master/0731-my-calendar-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/OmarShamkh/leetcode-archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmarShamkh/leetcode-archive/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmarShamkh/leetcode-archive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/2586-longest-square-streak-in-an-array) |
