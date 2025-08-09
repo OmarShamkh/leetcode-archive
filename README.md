@@ -184,6 +184,7 @@ Collection of My LeetCode problems solutions.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/OmarShamkh/leetcode-archive/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmarShamkh/leetcode-archive/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -260,6 +261,7 @@ Collection of My LeetCode problems solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/OmarShamkh/leetcode-archive/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmarShamkh/leetcode-archive/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/OmarShamkh/leetcode-archive/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmarShamkh/leetcode-archive/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -331,6 +333,7 @@ Collection of My LeetCode problems solutions.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/OmarShamkh/leetcode-archive/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmarShamkh/leetcode-archive/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0394-decode-string) |
 ## Memoization
