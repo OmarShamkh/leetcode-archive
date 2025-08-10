@@ -159,6 +159,7 @@ Collection of My LeetCode problems solutions.
 | [0432-all-oone-data-structure](https://github.com/OmarShamkh/leetcode-archive/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/OmarShamkh/leetcode-archive/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0900-reordered-power-of-2](https://github.com/OmarShamkh/leetcode-archive/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/OmarShamkh/leetcode-archive/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/OmarShamkh/leetcode-archive/tree/master/0952-word-subsets) |
@@ -187,6 +188,7 @@ Collection of My LeetCode problems solutions.
 | [0231-power-of-two](https://github.com/OmarShamkh/leetcode-archive/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmarShamkh/leetcode-archive/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
+| [0900-reordered-power-of-2](https://github.com/OmarShamkh/leetcode-archive/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/OmarShamkh/leetcode-archive/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/OmarShamkh/leetcode-archive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -276,6 +278,7 @@ Collection of My LeetCode problems solutions.
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/OmarShamkh/leetcode-archive/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmarShamkh/leetcode-archive/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1502-construct-k-palindrome-strings](https://github.com/OmarShamkh/leetcode-archive/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmarShamkh/leetcode-archive/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -302,6 +305,7 @@ Collection of My LeetCode problems solutions.
 | [0179-largest-number](https://github.com/OmarShamkh/leetcode-archive/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/OmarShamkh/leetcode-archive/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmarShamkh/leetcode-archive/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0900-reordered-power-of-2](https://github.com/OmarShamkh/leetcode-archive/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/OmarShamkh/leetcode-archive/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmarShamkh/leetcode-archive/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmarShamkh/leetcode-archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -446,4 +450,8 @@ Collection of My LeetCode problems solutions.
 | [0177-nth-highest-salary](https://github.com/OmarShamkh/leetcode-archive/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/OmarShamkh/leetcode-archive/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/OmarShamkh/leetcode-archive/tree/master/0184-department-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/OmarShamkh/leetcode-archive/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
